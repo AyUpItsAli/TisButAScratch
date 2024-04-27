@@ -3,9 +3,8 @@
   "package": "ayupitsali.tbas.mixin",
   "compatibilityLevel": "JAVA_17",
   "refmap": "tbas.refmap.json",
-  "mixins": [
-  ],
   "client": [
+    "MixinLivingEntityRenderer"
   ],
   "minVersion": "0.8"
 }
