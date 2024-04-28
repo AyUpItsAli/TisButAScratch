@@ -10,7 +10,7 @@ import org.spongepowered.asm.mixin.Overwrite;
 public class MixinLivingEntityRenderer {
     /**
      * @author AyUpItsAli
-     * @reason Always return as if the entity is not hurt (disabling the red flash when taking damage)
+     * @reason Always return as if the entity is not hurt (disabling the red tint overlay)
      */
     @Overwrite
     public static int getOverlayCoords(LivingEntity pLivingEntity, float pU) {
