@@ -7,10 +7,8 @@ issueTrackerURL="https://github.com/AyUpItsAli/TisButAScratch/issues"
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
-#updateJSONURL=""
 displayURL="https://modrinth.com/mod/tbas"
 logoFile="tbas.png"
-#credits=""
 authors="${mod_authors}"
 description='''${mod_description}'''
 
